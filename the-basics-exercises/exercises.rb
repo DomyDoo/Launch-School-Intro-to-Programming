@@ -63,8 +63,8 @@ puts "The square of #{num1} is #{square(num1)}"
 puts "The square of #{num2} is #{square(num2)}"
 puts "The square of #{num3} is #{square(num3)}"
 
-# Exercise 6
-puts "\nAnswer to Exercise 6:"
+# Exercise 7
+puts "\nAnswer to Exercise 7:"
 
 puts "\tThe error message says that there is a ')' in the code when it was expecting a '}'." 
 puts "\tThis could have happened accidentaly when making a hash or when substituting an expression into a string"
